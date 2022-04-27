@@ -33,3 +33,5 @@ Si
 6. <img width="1439" alt="image" src="https://user-images.githubusercontent.com/90091108/165555344-19865144-3fce-4b8e-a064-35270e2de9b5.png">
 7. Selecciona el archivo que enviaremos, lo sube, acepta los popup que aparecen en pantalla, y espera algunos minutos, pueden ser 5, 10 o 15 minutos dependiendo la velocidad del internet
 8. Una vez suceda esto el sitio ya estará migrado
+
+<h4>El archivo de migración estará subido en este medio a las 23:59 HRS del 27 de abril, 2022.</h4>
