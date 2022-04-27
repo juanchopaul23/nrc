@@ -1,26 +1,26 @@
 # nrc
 
-Versión MySQL
+Versión MySQL</br>
 10.5
 
-Versión Wordpress
+Versión Wordpress</br>
 5.9.3
 
-Versión PHP
+Versión PHP</br>
 8.0
 
-  postMaxSize 512MB
-  uploadMaxFilesize 512MB
-  memoryLimit 512MB
-  maxFileUploads 50
+  postMaxSize: 512MB</br>
+  uploadMaxFilesize: 512MB</br>
+  memoryLimit: 512MB</br>
+  maxFileUploads: 50</br>
   
-Extensiones PHP adicionales
+Extensiones PHP adicionales</br>
 zip
 
-Espacio en servidor recomendado
+Espacio en servidor recomendado</br>
 3GB
 
-Certificado SSL
+Certificado SSL</br>
 Si
 
 <h1>Instrucciones para la mudanza</h1>
