@@ -35,3 +35,5 @@ Si
 8. Una vez suceda esto el sitio ya estará migrado
 
 <h4>El archivo de migración estará subido en este medio a las 23:59 HRS del 27 de abril, 2022.</h4>
+
+Web Release V1 https://github.com/marvoxCo/nrc/releases/tag/v1
